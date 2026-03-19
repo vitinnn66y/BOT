@@ -1,7 +1,6 @@
 const TelegramBot = require('node-telegram-bot-api');
 const express = require('express');
 const bodyParser = require('body-parser');
-const fetch = require('node-fetch');
 
 // Configurações do bot
 const token = '8507516529:AAGME_SVCYjU8tpUhgzccq7fDXFJVyv57Uk';
